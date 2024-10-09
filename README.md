@@ -16,4 +16,4 @@ Aqui estão alguns dos meus melhores repositórios que mostram minhas habilidade
 
 ---
 
-📫 Entre em contato comigo via [LinkedIn](https://www.linkedin.com/in/seu-perfil) ou [E-mail](mailto:seuemail@exemplo.com).
+📫 Entre em contato comigo via [LinkedIn](https://www.linkedin.com/in/luiz-henrique-motta-73917a1a1) ou [E-mail](mailto:luizdias516@gmail.com).
