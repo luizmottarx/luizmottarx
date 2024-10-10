@@ -7,7 +7,9 @@
 
 ### 🔥 Repositórios em destaque
 
-No meu perfil existem alguns repósitorios que usei para me aperfeiçoar, durante minha jornada da faculdade.
+No meu perfil existem alguns repósitorios que usei para me aperfeiçoar, durante minha jornada na faculdade.
+
+
 Aqui estão alguns dos meus melhores repositórios que mostram minhas habilidades em Python, análise de dados e desenvolvimento de interfaces:
 
 1. [**Vale**](https://github.com/luizmottarx/Vale)  
